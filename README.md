@@ -13,6 +13,7 @@ Links:
 
   - [video - https://www.youtube.com/watch?v=cnt9mPOjrLg](https://www.youtube.com/watch?v=cnt9mPOjrLg)
   - [https://www.reddit.com/r/neovim/comments/ieh7l4/im_building_an_image_plugin_and_need_some_help/](https://www.reddit.com/r/neovim/comments/ieh7l4/im_building_an_image_plugin_and_need_some_help/)
+
 What's missing:
 
   - ueberzug replacement (rust/go) with image masking and contain_crop scaler
